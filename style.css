@@ -446,6 +446,15 @@ line-height:1.6;
 text-align:center;
 }
 
+.contact-info a{
+color:#fff;
+text-decoration:none;
+}
+
+.contact-info a:hover{
+color:#38bdf8;
+}
+
 .resume-btn{
 display:inline-block;
 margin:15px 0;
